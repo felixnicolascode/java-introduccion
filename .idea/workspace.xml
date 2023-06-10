@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-primeros-pasos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejemplo.java" afterDir="false" />
+    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="Backup del curso &quot;Java JRE y JDK: compile y ejecute su primer programa&quot; - Creación de proyecto - Primera clase &quot;Ejemplo&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Default/TestConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Default/TipoVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/Ejemplo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +35,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.TestConversion">
     <configuration name="Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejemplo" />
+      <option name="MAIN_CLASS_NAME" value="Default.Ejemplo" />
+      <module name="java-primeros-pasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Default.TestConversion" />
+      <module name="java-primeros-pasos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Default.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipoVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Default.TipoVariable" />
       <module name="java-primeros-pasos" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,6 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestConversion" />
+        <item itemvalue="Application.TipoVariable" />
         <item itemvalue="Application.Ejemplo" />
       </list>
     </recent_temporary>
@@ -66,6 +87,18 @@
       <option name="presentableId" value="Default" />
       <updated>1686243664979</updated>
     </task>
+    <task id="LOCAL-00001" summary="Backup del curso &quot;Java JRE y JDK: compile y ejecute su primer programa&quot; - Creación de proyecto - Primera clase &quot;Ejemplo&quot;">
+      <created>1686244632747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686244632747</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Backup del curso &quot;Java JRE y JDK: compile y ejecute su primer programa&quot; - Creación de proyecto - Primera clase &quot;Ejemplo&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backup del curso &quot;Java JRE y JDK: compile y ejecute su primer programa&quot; - Creación de proyecto - Primera clase &quot;Ejemplo&quot;" />
   </component>
 </project>
