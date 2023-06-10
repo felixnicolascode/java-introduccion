@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="Backup del curso &quot;Java JRE y JDK: compile y ejecute su primer programa&quot; - Creación de proyecto - Primera clase &quot;Ejemplo&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Default/TestConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Default/TipoVariable.java" afterDir="false" />
+    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="Clase TipoVariable - Tipos primitivos - Clase TestConversion - Ejemplo de Type Casting">
+      <change afterPath="$PROJECT_DIR$/src/Default/EjemploCaracteres.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/Ejemplo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +39,23 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestConversion">
+  <component name="RunManager" selected="Application.EjemploCaracteres">
     <configuration name="Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Default.Ejemplo" />
       <module name="java-primeros-pasos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Default.EjemploCaracteres" />
+      <module name="java-primeros-pasos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Default.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploCaracteres" />
         <item itemvalue="Application.TestConversion" />
         <item itemvalue="Application.TipoVariable" />
         <item itemvalue="Application.Ejemplo" />
@@ -94,11 +105,19 @@
       <option name="project" value="LOCAL" />
       <updated>1686244632747</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Clase TipoVariable - Tipos primitivos - Clase TestConversion - Ejemplo de Type Casting">
+      <created>1686418456338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686418456338</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Backup del curso &quot;Java JRE y JDK: compile y ejecute su primer programa&quot; - Creación de proyecto - Primera clase &quot;Ejemplo&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Backup del curso &quot;Java JRE y JDK: compile y ejecute su primer programa&quot; - Creación de proyecto - Primera clase &quot;Ejemplo&quot;" />
+    <MESSAGE value="Clase TipoVariable - Tipos primitivos - Clase TestConversion - Ejemplo de Type Casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clase TipoVariable - Tipos primitivos - Clase TestConversion - Ejemplo de Type Casting" />
   </component>
 </project>
