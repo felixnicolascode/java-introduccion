@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="TestAlcance - Estructura IF-ELSE - Ejemplo">
-      <change afterPath="$PROJECT_DIR$/src/Default/TestMes.java" afterDir="false" />
+    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="TestMes - Sentencia switch - Ejemplo">
+      <change afterPath="$PROJECT_DIR$/src/Default/EjemploCiclosWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Default/EjemploCiclosWhile2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +40,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestMes">
-    <configuration name="EjemploCondicionales2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Default.EjemploCondicionales2" />
+  <component name="RunManager" selected="Application.EjemploCiclosWhile2">
+    <configuration name="EjemploCiclosWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Default.EjemploCiclosWhile" />
       <module name="java-primeros-pasos" />
       <extension name="coverage">
         <pattern>
@@ -53,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploScoope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Default.EjemploScoope" />
+    <configuration name="EjemploCiclosWhile2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Default.EjemploCiclosWhile2" />
       <module name="java-primeros-pasos" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploCiclosWhile2" />
+        <item itemvalue="Application.EjemploCiclosWhile" />
         <item itemvalue="Application.TestMes" />
         <item itemvalue="Application.TestAlcance" />
         <item itemvalue="Application.TestDescuento" />
-        <item itemvalue="Application.EjemploScoope" />
-        <item itemvalue="Application.EjemploCondicionales2" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686691017528</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="TestMes - Sentencia switch - Ejemplo">
+      <created>1686691238806</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686691238806</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,6 +222,7 @@
     <MESSAGE value="EjemploScoope - Estructura condicional IF-ELSE - Ejemplo de optimización de código" />
     <MESSAGE value="TestDescuento - Estructura IF-ELSE - Ejemplo" />
     <MESSAGE value="TestAlcance - Estructura IF-ELSE - Ejemplo" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestAlcance - Estructura IF-ELSE - Ejemplo" />
+    <MESSAGE value="TestMes - Sentencia switch - Ejemplo" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestMes - Sentencia switch - Ejemplo" />
   </component>
 </project>
