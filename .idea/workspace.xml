@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="TestMes - Sentencia switch - Ejemplo">
-      <change afterPath="$PROJECT_DIR$/src/Default/EjemploCiclosWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Default/EjemploCiclosWhile2.java" afterDir="false" />
+    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="EjemploCiclosWhile - Ciclo While - Ejemplos - Acumuladores y Contadores">
+      <change afterPath="$PROJECT_DIR$/src/Default/EjemploCiclosFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Default/TestFor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EjemploCiclosWhile2">
+  <component name="RunManager" selected="Application.TestFor">
+    <configuration name="EjemploCiclosFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Default.EjemploCiclosFor" />
+      <module name="java-primeros-pasos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Default.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EjemploCiclosWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Default.EjemploCiclosWhile" />
       <module name="java-primeros-pasos" />
@@ -67,21 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAlcance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Default.TestAlcance" />
-      <module name="java-primeros-pasos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Default.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDescuento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Default.TestDescuento" />
+    <configuration name="TestFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Default.TestFor" />
       <module name="java-primeros-pasos" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestFor" />
+        <item itemvalue="Application.EjemploCiclosFor" />
         <item itemvalue="Application.EjemploCiclosWhile2" />
         <item itemvalue="Application.EjemploCiclosWhile" />
         <item itemvalue="Application.TestMes" />
-        <item itemvalue="Application.TestAlcance" />
-        <item itemvalue="Application.TestDescuento" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686691238806</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="EjemploCiclosWhile - Ciclo While - Ejemplos - Acumuladores y Contadores">
+      <created>1686700813255</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686700813255</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,6 +230,7 @@
     <MESSAGE value="TestDescuento - Estructura IF-ELSE - Ejemplo" />
     <MESSAGE value="TestAlcance - Estructura IF-ELSE - Ejemplo" />
     <MESSAGE value="TestMes - Sentencia switch - Ejemplo" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestMes - Sentencia switch - Ejemplo" />
+    <MESSAGE value="EjemploCiclosWhile - Ciclo While - Ejemplos - Acumuladores y Contadores" />
+    <option name="LAST_COMMIT_MESSAGE" value="EjemploCiclosWhile - Ciclo While - Ejemplos - Acumuladores y Contadores" />
   </component>
 </project>
