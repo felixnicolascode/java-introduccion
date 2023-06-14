@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="TestFor - Ciclo For - Ejemplo">
-      <change afterPath="$PROJECT_DIR$/src/Default/EjercicioMatriz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="EjercicioMatriz - Bucle For - Impresión de matriz - Cuadrado - Triangulo">
+      <change afterPath="$PROJECT_DIR$/src/Default/MultiplosDeTresHastaCien.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686703230538</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="EjercicioMatriz - Bucle For - Impresión de matriz - Cuadrado - Triangulo">
+      <created>1686705263932</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686705263932</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,6 +253,7 @@
     <MESSAGE value="EjemploCiclosWhile - Ciclo While - Ejemplos - Acumuladores y Contadores" />
     <MESSAGE value="EjemploCiclosFor - Ciclo For - Ejemplos" />
     <MESSAGE value="TestFor - Ciclo For - Ejemplo" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestFor - Ciclo For - Ejemplo" />
+    <MESSAGE value="EjercicioMatriz - Bucle For - Impresión de matriz - Cuadrado - Triangulo" />
+    <option name="LAST_COMMIT_MESSAGE" value="EjercicioMatriz - Bucle For - Impresión de matriz - Cuadrado - Triangulo" />
   </component>
 </project>
