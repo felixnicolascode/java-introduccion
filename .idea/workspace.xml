@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="EjemploCiclosWhile - Ciclo While - Ejemplos - Acumuladores y Contadores">
-      <change afterPath="$PROJECT_DIR$/src/Default/EjemploCiclosFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Default/TestFor.java" afterDir="false" />
+    <list default="true" id="3ae149dc-cf82-4874-880d-31663d847c0b" name="Changes" comment="EjemploCiclosFor - Ciclo For - Ejemplos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Default/TestFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Default/TestFor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.TestFor">
     <configuration name="EjemploCiclosFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Default.EjemploCiclosFor" />
@@ -216,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686700813255</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="EjemploCiclosFor - Ciclo For - Ejemplos">
+      <created>1686701908673</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686701908673</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -231,6 +238,7 @@
     <MESSAGE value="TestAlcance - Estructura IF-ELSE - Ejemplo" />
     <MESSAGE value="TestMes - Sentencia switch - Ejemplo" />
     <MESSAGE value="EjemploCiclosWhile - Ciclo While - Ejemplos - Acumuladores y Contadores" />
-    <option name="LAST_COMMIT_MESSAGE" value="EjemploCiclosWhile - Ciclo While - Ejemplos - Acumuladores y Contadores" />
+    <MESSAGE value="EjemploCiclosFor - Ciclo For - Ejemplos" />
+    <option name="LAST_COMMIT_MESSAGE" value="EjemploCiclosFor - Ciclo For - Ejemplos" />
   </component>
 </project>
